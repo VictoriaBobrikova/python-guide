@@ -7,7 +7,7 @@
 Context
 :::::::
 
-Python is frequently used for high-performance scientific applications. It
+Python часто used for high-performance scientific applications. It
 is widely used in academia and scientific projects because it is easy to write
 and performs well.
 
